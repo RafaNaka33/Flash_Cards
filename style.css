@@ -119,7 +119,7 @@ body{
     position: relative;
     cursor: pointer;
 }
-.Cartão6{
+.cartao6{
     color: red;
     padding: 5px;
     background: linear-gradient(to bottom, rgb(0, 255, 234), rgba(88, 169, 235, 0.555));
@@ -132,7 +132,7 @@ body{
     transform-style: preserve-3d;
     transition: transform 0.8s;
     position: relative;
-    cursor: pointer;
+    cursor: pointer:
 }
 .cartao7{
     color: red;
