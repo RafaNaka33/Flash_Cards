@@ -162,7 +162,7 @@ body{
     transform-style: preserve-3d;
     transition: transform 0.8s;
     position: relative;
-    cursor: pointer;
+    cursor: pointer:
 }
 .cartao9{
     color: red;
@@ -177,7 +177,7 @@ body{
     transform-style: preserve-3d;
     transition: transform 0.8s;
     position: relative;
-    cursor: pointer;
+    cursor: pointer:
 }
 .cartao.flipped .cartao2,
 .cartao.flipped .cartao1,
